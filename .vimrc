@@ -31,3 +31,18 @@ colorscheme solarized
 
 "Use jj to change modes, no more <ctrl>[
  inoremap jj <ESC>
+
+
+""""" INDENTING """"""""""""""""""
+"Use 4 spaces for tabs
+:set shiftwidth=4
+"dont use tab characters
+:set expandtab
+
+
+""""" ALLOW MOUSE TO CHANGE CURSOR POSITION """"""
+:set mouse=a
+
+""""" LINE NUMBERS """""""""""""""
+:set number
+
